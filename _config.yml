@@ -1,31 +1,31 @@
 # Site settings
 title: "Kumaran"
 email: kumaran.masilamani@yahoo.co.uk
-description: "Full stack polyglot agile developer with Kotlin, GoLang, Scala, Java with frontend skills"
+description: "Full stack polyglot agile developer with experience in Golang, Scala and Java."
 baseurl: ""
 url: "http://kumaran.me/"
-title_description: "Full stack polyglot agile developer with Kotlin, GoLang, Scala, Java with frontend skills and a Certified Scrum Master "
+title_description: "An enthusiastic, versatile, full stack polyglot developer, Certified Scrum Master with frontend skills. Experienced in Scala, Golang, Java and interested in Kotlin"
 title_image: "https://media.licdn.com/dms/image/C4D03AQHUrqeVUGEtjg/profile-displayphoto-shrink_200_200/0?e=1560384000&v=beta&t=7fzpnb83b53hxpJOnohWzFcPs4nUcXOa3WRACnrgpVA"
 google_analytics: ""
 disqus_account: kumaran
 github_repository: https://github.com/m-kumaran/m-kumaran.github.io
-addthis_id: ra-513c6fa83da6ec6
-post_limit: 5
+addthis_id: ra-99999999
+post_limit: 10
 
 # Social usernames/URLs
-twitter_username: _jacobtomlinson
-github_username:  jacobtomlinson
+twitter_username: kumaran_rajesh
+github_username:  m-kumaran
 instagram_username:
 reddit_username:
-linkedin_link: http://carte-noire.jacobtomlinson.co.uk/
-google_plus_link: http://carte-noire.jacobtomlinson.co.uk/
-stackoverflow_link: http://carte-noire.jacobtomlinson.co.uk/
+linkedin_link: https://www.linkedin.com/in/kumaran-masilamani-98b13b7/
+google_plus_link:
+stackoverflow_link: https://stackexchange.com/users/466251/kumaran
 xing_link:
-facebook_link:
+facebook_link: https://www.facebook.com/kumaran.masilamani
 
 # Footer
-footer_left: "Made with <i class=\"fa fa-heart\"></i> by <a href=\"https://twitter.com/_JacobTomlinson\">Jacob Tomlinson</a>"
-footer_right: "&lt;/&gt; on <a href=\"https://github.com/jacobtomlinson/carte-noire\">Github</a> &nbsp;<i class=\"fa fa-github-alt\"></i>"
+footer_left: ""
+footer_right: "Kumaran"
 
 # Build settings
 markdown: kramdown
