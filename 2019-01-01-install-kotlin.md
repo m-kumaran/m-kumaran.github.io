@@ -1,13 +1,12 @@
 ---
-layout:     post
-title:      Using thumbnails
-date:       2014-06-08 12:32:18
-summary:    Using thumbnails in your Carte Noire articles.
-categories: jekyll
-thumbnail: jekyll
+layout:     page
+title:      Kotlin setup
+date:       2019-01-01 00:00:00
+summary:    How to setup your mac for Kotlin development
+categories: Kotlin
+thumbnail: cog
 tags:
- - thumbnails
- - carte noire
+ - kotlin
 ---
 
 Carte Noire is designed to start each article with an all-white image as a
