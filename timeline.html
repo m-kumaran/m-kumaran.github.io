@@ -2,50 +2,17 @@
 layout:     page
 title:      Employment
 ---
+
 <ul class="timeline">
+  {% for employment in site.data.employments %}
   <li>
-		<div class="direction-r">
+		<div class="{{employment.class}}">
 			<div class="flag-wrapper">
-				<span class="flag">GlueHome</span>
-				<span class="time-wrapper"><span class="time">Jan 2019 - present</span></span>
+				<span class="flag">{{employment.employer}}</span>
+				<span class="time-wrapper"><span class="time">{{employment.duration}}</span></span>
 			</div>
-			<div class="desc">Senior Platform Engineer</div>
+			<div class="desc">{{employment.position}}</div>
 		</div>
 	</li>
-	<li>
-		<div class="direction-l">
-			<div class="flag-wrapper">
-				<span class="flag">EaselTV</span>
-				<span class="time-wrapper"><span class="time">Feb 2015 to Jan 2019</span></span>
-			</div>
-			<div class="desc">Senior Software Engineer</div>
-		</div>
-	</li>
-	<li>
-		<div class="direction-r">
-			<div class="flag-wrapper">
-				<span class="flag">Leftshift</span>
-				<span class="time-wrapper"><span class="time">May 2014 to Feb 2015</span></span>
-			</div>
-			<div class="desc">Senior Developer</div>
-		</div>
-	</li>
-  <li>
-		<div class="direction-l">
-			<div class="flag-wrapper">
-				<span class="flag">Biomed Central</span>
-				<span class="time-wrapper"><span class="time">Sep 2012 to Apr 2014</span></span>
-			</div>
-			<div class="desc">Senior Software Developer</div>
-		</div>
-	</li>
-  <li>
-		<div class="direction-r">
-			<div class="flag-wrapper">
-				<span class="flag">SThree</span>
-				<span class="time-wrapper"><span class="time">Feb 2010 to Sep 2012</span></span>
-			</div>
-			<div class="desc">Information Management Developer</div>
-		</div>
-	</li>
+  {% endfor %}
 </ul>

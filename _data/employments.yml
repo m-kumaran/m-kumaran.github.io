@@ -1,0 +1,39 @@
+- class: direction-r
+  employer: GlueHome
+  duration: Jan 2019 - present
+  position: Senior Platform Engineer
+
+- class: direction-l
+  employer: EaselTV
+  duration: Feb 2015 to Jan 2019
+  position: Senior Software Engineer
+
+- class: direction-r
+  employer: Leftshift
+  duration: May 2014 to Feb 2015
+  position: Senior Developer
+
+- class: direction-l
+  employer: Biomed Central
+  duration: Sep 2012 to Apr 2014
+  position: Senior Software Developer
+
+- class: direction-r
+  employer: <a ref="www.sthree.com">SThree , London</a>
+  duration: Feb 2010 to Sep 2012
+  position: Information Management Developer
+
+- class: direction-l
+  employer: Computer Sciences Corporation
+  duration: Nov 2007 to Aug 2009
+  position: Senior Software Engineer
+
+- class: direction-r
+  employer: Verizon USA
+  duration: Jul 2005 to Nov 2007
+  position: Systems Engineer
+
+- class: direction-l
+  employer: Standard Chartered Bank -Dubai
+  duration: May 2003 to Jun 2005
+  position: Senior Systems Analyst
