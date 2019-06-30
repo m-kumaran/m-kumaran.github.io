@@ -6,7 +6,9 @@ baseurl: ""
 url: "http://kumaran.me/"
 title_description: "An enthusiastic, versatile, full stack polyglot developer with programming experience in Scala, Golang, Java in AWS and GCP"
 title_description2: "Certified Scrum Master and an evangelist of Agile methodologies"
-title_image: "https://media.licdn.com/dms/image/C4D03AQHUrqeVUGEtjg/profile-displayphoto-shrink_200_200/0?e=1560384000&v=beta&t=7fzpnb83b53hxpJOnohWzFcPs4nUcXOa3WRACnrgpVA"
+#title_image: "https://media.licdn.com/dms/image/C4D03AQHUrqeVUGEtjg/profile-displayphoto-shrink_200_200/0?e=1560384000&v=beta&t=7fzpnb83b53hxpJOnohWzFcPs4nUcXOa3WRACnrgpVA"
+title_image: "https://media.licdn.com/dms/image/C4D03AQHUrqeVUGEtjg/profile-displayphoto-shrink_100_100/0?e=1567641600&v=beta&t=2WWo5KirfHNsyDMRSFl0wEwjYbPbWnux2gnu8v7hCQc"
+
 google_analytics: ""
 disqus_account:
 github_repository: https://github.com/m-kumaran/m-kumaran.github.io
